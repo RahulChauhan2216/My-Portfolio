@@ -8,7 +8,7 @@ const Education = () => {
         My education has been a jorney of self-discovery and growth. My
         educational details are as follows.
       </p>
-      <div className="mx-auto w-[75%] border p-6 rounded-2xl shadow-md shadow-cyan-500/50">
+      <div className="mx-auto sm:w-[75%] border p-6 rounded-2xl shadow-md shadow-cyan-500/70">
         {/* --- */}
         <div>
           <div className="flex flex-col sm:flex-row gap-6 sm:gap-0">

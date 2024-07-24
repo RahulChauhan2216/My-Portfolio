@@ -10,7 +10,7 @@ const Projects = () => {
       </p>
 
       <a href="https://fastidious-crisp-f473ef.netlify.app/" target="blank">
-        <div className="w-[65%] sm:w-[60%] rounded-2xl mx-auto text-white p-6 bg-gray-900 hover:scale-105 transition ease-in-out cursor-pointer">
+        <div className="sm:w-[60%] rounded-2xl mx-auto text-white p-6 bg-gray-900 hover:scale-105 transition ease-in-out cursor-pointer">
           <img src={Daksh} className="rounded-lg" />
           <ul className="pt-6 flex flex-wrap flex-col text-center sm:flex-row gap-4 text-lg text-purple-500">
             <li className="bg-gray-700 px-4 py-1 rounded-md">React.js</li>

@@ -9,7 +9,7 @@ const Experience = () => {
         projects in a company.
       </p>
 
-      <div className="mx-auto w-[75%] border p-6 rounded-2xl shadow-md shadow-cyan-500/50">
+      <div className="mx-auto sm:w-[75%] border p-6 rounded-2xl shadow-md shadow-cyan-500/70">
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-0 ">
           <div>
             <img

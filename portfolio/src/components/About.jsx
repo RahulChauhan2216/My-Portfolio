@@ -7,7 +7,7 @@ const About = () => {
       className="flex flex-col-reverse sm:flex-row gap-10 sm:gap-0 text-center sm:text-start  text-white justify-between items-center pt-12 h-auto"
       id="about"
     >
-      <div className="w-[70%] sm:w-[50%]">
+      <div className="sm:w-[50%]">
         <h1 className="text-5xl font-bold">Hi, I am Rahul</h1>
         <h4 className="py-6 text-2xl">
           I am a <span className="text-purple-500">Frontend Developer</span>

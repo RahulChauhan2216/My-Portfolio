@@ -21,7 +21,7 @@ const Navbar = () => {
           <ul
             className={
               ham
-                ? "flex flex-col gap-8 absolute top-0 left-0 z-10 border w-[45vw] h-[100vh] p-8 pt-16 bg-gray-800"
+                ? "flex flex-col gap-8 absolute top-0 left-0 z-10 w-[45vw] h-[100vh] p-8 pt-16 bg-gray-800"
                 : "hidden xl:flex gap-6"
             }
           >

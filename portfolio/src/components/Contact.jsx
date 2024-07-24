@@ -10,7 +10,7 @@ const Contact = () => {
         Feel free to reach out to me for any questions or opportunities!
       </p>
 
-      <div className="w-[75%] rounded-2xl mx-auto text-white p-6 bg-gray-900 flex flex-col gap-8">
+      <div className="sm:w-[75%] rounded-2xl mx-auto text-white p-6 bg-gray-900 flex flex-col gap-8">
         <div className="flex flex-col sm:flex-row gap-4 items-center sm:gap-10">
           <HiOutlineMail className="text-2xl" />
           <h1 className="text-lg hover:text-purple-500 cursor-pointer hover:scale-125 transition ease-in-out">

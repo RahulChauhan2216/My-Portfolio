@@ -10,14 +10,14 @@ function App() {
   return (
     <>
       <div className="bg-black">
-        <div className="w-[70%] mx-auto">
+        <div className="w-[80%] mx-auto">
           <Navbar />
           <About />
           <Skills />
           <Experience />
           <Projects />
-          <Education />
-          <Contact />
+          <Education/>
+          <Contact/>
         </div>
       </div>
     </>
